@@ -1,0 +1,7 @@
+{
+	"name": "Utility Portal",
+	"require" : {
+		"mustache/mustache" : "~2.1"
+	}
+}
+
