@@ -1,4 +1,6 @@
-utility-portal
+Decipher Utility Portal
 ==============
 
-Repository for backup and version control.
+Utility Portal repository for backup, version control, bugs reports, feature requests, etc.
+
+
